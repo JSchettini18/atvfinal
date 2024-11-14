@@ -17,7 +17,7 @@ export function BlockPage() {
             <a href="#" className="text-white hover:text-blue-400">About</a>
           </div>
           <div className="flex space-x-4">
-            <Button variant="outline" className="text-white border-white hover:bg-white hover:text-black">
+            <Button variant="outline" className="text-black border-white hover:bg-white hover:text-black">
               Login
             </Button>
             <Button className="bg-blue-600 hover:bg-blue-700 text-white">
@@ -110,7 +110,7 @@ export function BlockPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="relative h-[400px]">
               <img
-                src="/placeholder.svg?height=400&width=600"
+                src="/photos/MAPA-BRASIL-GENERAL.png"
                 alt="Brazil map"
                 className="w-full h-full object-cover rounded-lg"
               />
